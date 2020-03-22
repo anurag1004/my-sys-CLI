@@ -18,3 +18,8 @@
 ######                       Requires node verion 13.11.x or greater         [boolean]
 ######  --kill               Kill a specific process. --kill <PID>            [number]
 ######  --err                Get details about most common linux error codes  [number]
+    ###NOTE 
+    - This CLI app is still in development phase.
+    
+    ##NPM REPO
+        ![NPM LINK](https://www.npmjs.com/package/my-sys)
