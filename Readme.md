@@ -1,7 +1,7 @@
 ###Install my-sys
     
        npm i -g my-sys
-
+  
 ### USAGE
 > my-sys Options
     
@@ -16,10 +16,10 @@
 ######  --pid                Process ID [use with --sp]                       [number]
 ######  --kv, --kernelV      Get current kernel version
 ######                       Requires node verion 13.11.x or greater         [boolean]
-######  --kill               Kill a specific process. --kill <PID>            [number]
+######  --kill               Kill a specific process. --kill PID            [number]
 ######  --err                Get details about most common linux error codes  [number]
-    ###NOTE 
+
+###NOTE 
     - This CLI app is still in development phase.
-    
-    ##NPM REPO
+##NPM REPO
         ![NPM LINK](https://www.npmjs.com/package/my-sys)
