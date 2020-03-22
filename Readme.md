@@ -1,6 +1,6 @@
-###Install my-sys
+### Install my-sys
     
-       npm i -g my-sys
+    npm i -g my-sys
   
 ### USAGE
 > my-sys Options
@@ -19,7 +19,7 @@
 ######  --kill               Kill a specific process. --kill PID            [number]
 ######  --err                Get details about most common linux error codes  [number]
 
-###NOTE 
+### NOTE 
     - This CLI app is still in development phase.
-##NPM REPO
-        ![NPM LINK](https://www.npmjs.com/package/my-sys)
+## NPM REPO
+   [Go to NPM](https://auth0.com/docs/quickstart/webapp/nodejs/01-login?download=true)
