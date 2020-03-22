@@ -20,7 +20,7 @@
 ######  --err                Get details about most common linux error codes  [number]
 
 ### NOTE 
-    - This CLI app is still in development phase.
+    - This CLI app is still under development phase.
 ## NPM REPO
    [Go to NPM](https://www.npmjs.com/package/my-sys)
 #### Screenshots
