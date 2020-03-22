@@ -112,7 +112,7 @@ const options = yargs
      if(!options.pid){
          console.log(`${chalk.red(`Incorrect usage ! Please use as stated below \n`)} ${chalk.yellow('--sp --pid <PID>')}`);
      }else{
-    // setting priority of a particular pid require root permission
+    //setting priority of a particular pid require root permission
          if((options.sp >= -20 && options.sp <= 19) && ((typeof options.pid).toString() === 'number')&&((typeof options.setPriority).toString() === 'number')){
             os.setPriority(options.pid,options.setPriority);
             console.log("SUCESS!!");
