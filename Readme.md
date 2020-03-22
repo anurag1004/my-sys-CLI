@@ -22,7 +22,7 @@
 ### NOTE 
     - This CLI app is still in development phase.
 ## NPM REPO
-   [Go to NPM](https://auth0.com/docs/quickstart/webapp/nodejs/01-login?download=true)
+   [Go to NPM](https://www.npmjs.com/package/my-sys)
 #### Screenshots
 ![1](https://github.com/anurag0608/my-sys-CLI/blob/master/ss/1.png)
 ![2](https://github.com/anurag0608/my-sys-CLI/blob/master/ss/2.png)
