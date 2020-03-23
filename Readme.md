@@ -27,3 +27,7 @@
 ![1](https://github.com/anurag0608/my-sys-CLI/blob/master/ss/1.png)
 ![2](https://github.com/anurag0608/my-sys-CLI/blob/master/ss/2.png)
 ![3](https://github.com/anurag0608/my-sys-CLI/blob/master/ss/3.png)
+
+#### Version Changes
+     > v1.0.3
+    - Error fetcher error handling corrected.
