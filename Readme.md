@@ -21,13 +21,14 @@
 
 ### NOTE 
     - This CLI app is still under development phase.
-## NPM REPO
-   [Go to NPM](https://www.npmjs.com/package/my-sys)
+
 #### Screenshots
-![1](https://github.com/anurag0608/my-sys-CLI/blob/master/ss/1.png)
-![2](https://github.com/anurag0608/my-sys-CLI/blob/master/ss/2.png)
-![3](https://github.com/anurag0608/my-sys-CLI/blob/master/ss/3.png)
+![1](https://raw.githubusercontent.com/anurag0608/my-sys-CLI/master/ss/1.png)
+![2](https://raw.githubusercontent.com/anurag0608/my-sys-CLI/master/ss/2.png)
+![3](https://raw.githubusercontent.com/anurag0608/my-sys-CLI/master/ss/3.png)
 
 #### Version Changes
-     > v1.0.3
+     > v1.0.7
+    - added screenshots in readme
+     > v1.0.5
     - Error fetcher error handling corrected.
