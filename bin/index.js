@@ -184,6 +184,10 @@ const options = yargs
              }
          }
          if(!flag){
+           
+             clearInterval(interval);
+             process.stdout.clearLine();
+             process.stdout.cursorTo(0);
              console.log(chalk.greenBright("Sorry no such error code found :("));
          }
          //console.log((tr[1].children[0].children)[0].data);
