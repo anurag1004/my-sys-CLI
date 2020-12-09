@@ -29,7 +29,5 @@
 ![3](https://raw.githubusercontent.com/anurag0608/my-sys-CLI/master/ss/3.png)
 
 #### Version Changes
-     > v1.0.6
-    - added screenshots in readme
-     > v1.0.5
+    > v1.0.6
     - Error fetcher error handling corrected.
