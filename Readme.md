@@ -31,3 +31,4 @@
 #### Version Changes
     > v1.0.6
     - Error fetcher error handling corrected.
+    
