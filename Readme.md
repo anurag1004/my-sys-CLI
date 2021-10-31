@@ -20,7 +20,7 @@
 ######  --err                Get details about most common linux error codes  [number]
 
 ### NOTE 
-    - This CLI app is still under development phase.
+    - This CLI app is still under development phase. It will be updated in near future.
 ## NPM REPO
    [Go to NPM](https://www.npmjs.com/package/my-sys)
 #### Screenshots
@@ -31,3 +31,4 @@
 #### Version Changes
     > v1.0.6
     - Error fetcher error handling corrected.
+    
